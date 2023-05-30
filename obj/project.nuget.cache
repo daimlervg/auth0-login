@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "yehN6ZQ+/9sB/WWXt2XZxt429+B0KGMwMHNpmDRheMszRxYzX3ctR8hqJhnwUdyaXjYxSwMx78hKTrC2BxrS5g==",
+  "success": true,
+  "projectFilePath": "E:\\Proyectos\\aspnet-core-01-login\\quickstart\\Auth0Sample\\SampleMvcApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daiml\\.nuget\\packages\\auth0.aspnetcore.authentication\\1.2.0\\auth0.aspnetcore.authentication.1.2.0.nupkg.sha512",
+    "C:\\Users\\Daiml\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\6.0.14\\microsoft.aspnetcore.authentication.openidconnect.6.0.14.nupkg.sha512",
+    "C:\\Users\\Daiml\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Daiml\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.27.0\\microsoft.identitymodel.abstractions.6.27.0.nupkg.sha512",
+    "C:\\Users\\Daiml\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.27.0\\microsoft.identitymodel.jsonwebtokens.6.27.0.nupkg.sha512",
+    "C:\\Users\\Daiml\\.nuget\\packages\\microsoft.identitymodel.logging\\6.27.0\\microsoft.identitymodel.logging.6.27.0.nupkg.sha512",
+    "C:\\Users\\Daiml\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.27.0\\microsoft.identitymodel.protocols.6.27.0.nupkg.sha512",
+    "C:\\Users\\Daiml\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.27.0\\microsoft.identitymodel.protocols.openidconnect.6.27.0.nupkg.sha512",
+    "C:\\Users\\Daiml\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.27.0\\microsoft.identitymodel.tokens.6.27.0.nupkg.sha512",
+    "C:\\Users\\Daiml\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Daiml\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Daiml\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Daiml\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.27.0\\system.identitymodel.tokens.jwt.6.27.0.nupkg.sha512",
+    "C:\\Users\\Daiml\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Daiml\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Daiml\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\Daiml\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Daiml\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Daiml\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
